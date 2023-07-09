@@ -33,7 +33,7 @@ const SocialLinks = () => {
                 </>
             ),
             href:'mailto:mansitandel1998@gmail.com',
-            style:'bg-gradient-to-r from-red-500 to-green-400'
+            style:'bg-gradient-to-r from-red-500 to-green-500'
            
         },
         {
