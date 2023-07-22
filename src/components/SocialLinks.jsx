@@ -24,7 +24,7 @@ const SocialLinks = () => {
                 </>
             ),
             href:'https://github.com/MansiTandel',
-            style:'bg-gray-700'
+            
         },
         {
             id : 3,
@@ -34,7 +34,7 @@ const SocialLinks = () => {
                 </>
             ),
             href:'mailto:mansitandel1998@gmail.com',
-            style:'bg-lime-500'
+            
            
         },
         {
